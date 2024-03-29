@@ -3,7 +3,7 @@
 This project focuses on Natural Language Processing (NLP) techniques for text analysis and processing.
  
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#introduction) 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
