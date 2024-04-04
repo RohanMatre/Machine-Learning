@@ -5,7 +5,7 @@ This project focuses on Natural Language Processing (NLP) techniques for text an
 ## Table of Contents
 - [Introduction](#introduction)  
 - [Features](#features)
-- [Installation](#installation)
+- [Installation](#installation) 
 - [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
